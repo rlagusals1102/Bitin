@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transaction_menu"
+        android:icon="@drawable/transaction_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:title="거래소" />
+
+    <item
+        android:id="@+id/user_asset_menu"
+        android:icon="@drawable/asset_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:title="자산" />
+
+    <item
+        android:id="@+id/community_menu"
+        android:icon="@drawable/community_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:title="커뮤니티" />
+
+    <item
+        android:id="@+id/settings_menu"
+        android:icon="@drawable/settings_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:title="설정" />
+</menu>

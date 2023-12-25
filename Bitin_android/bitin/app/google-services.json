@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900251887083",
+    "project_id": "bitin-2741b",
+    "storage_bucket": "bitin-2741b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900251887083:android:778ace9a75a0657d9025ae",
+        "android_client_info": {
+          "package_name": "com.example.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900251887083-d59412igv9kaahv3ser61ie3vns53q1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.community",
+            "certificate_hash": "fd1b990efb7e7ce09175026c9e36b29e8324d1cd"
+          }
+        },
+        {
+          "client_id": "900251887083-fq8c55b2l352pfhvcbeseo9jvjstthja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrL9bgMeo7GZXkw61PuKmjiQYlbSPsPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900251887083-fq8c55b2l352pfhvcbeseo9jvjstthja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

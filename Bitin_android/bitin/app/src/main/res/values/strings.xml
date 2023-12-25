@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitin</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Publish Blog</string>
+    <string name="menu_slideshow">Profile</string>
+    <string name="default_web_client_id">900251887083-fq8c55b2l352pfhvcbeseo9jvjstthja.apps.googleusercontent.com</string>
+</resources>
