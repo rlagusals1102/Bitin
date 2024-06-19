@@ -12,7 +12,7 @@ Bitin은 UPbit API와 BERT AI 모델을 활용하여 자동으로 매수/매도�
 ## 기술 스택
 - FE : Android (Java)
 - BE : [FastAPI 최신 버전](https://github.com/rlagusals1102/Bitin_Server)
-- DB : PostgreSQL
+- DB : Firebase
 - AI Mode : BERT
   - [Model 사용처](https://github.com/ukairia777/finance_sentiment_corpus/blob/main/finance_data.csv)
 - API 사용처 : UPbit API
